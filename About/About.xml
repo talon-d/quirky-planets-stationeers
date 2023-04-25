@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetadata xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>QuirkyPlanets</Name>
+  <Author>Wilhelm</Author>
+  <Version>0.1</Version>
+  <Description>Cool new worlds!</Description>
+  <Tags>WorldSettings</Tags>
+</ModMetadata>
