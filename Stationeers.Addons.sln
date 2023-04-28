@@ -11,7 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleMod", "ExampleMod\Ex
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "My Mods", "My Mods", "{EEA1F74E-E0A0-41E5-95EB-153CB438764D}"
 	ProjectSection(SolutionItems) = preProject
-		MyMods\QuirkyPlanets\QuirkyPlanets.csproj = MyMods\QuirkyPlanets\QuirkyPlanets.csproj
+		QuirkyPlanets.csproj = QuirkyPlanets.csproj
+		Stationeers.Addons.sln = Stationeers.Addons.sln
 	EndProjectSection
 EndProject
 Global

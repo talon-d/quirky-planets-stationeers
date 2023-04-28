@@ -1,2 +1,0 @@
-c:\Users\drjam\OneDrive\Documents\stuff\quirky-planets\Source\MyMods\QuirkyPlanets\obj\Debug\QuirkyPlanets.csproj.AssemblyReference.cache
-c:\Users\drjam\OneDrive\Documents\stuff\quirky-planets\Source\MyMods\QuirkyPlanets\obj\Debug\QuirkyPlanets.csproj.CoreCompileInputs.cache
